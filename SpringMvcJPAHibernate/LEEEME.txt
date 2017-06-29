@@ -1,0 +1,13 @@
+Ejemplo de Spring MVC + maven + JPA + Hibernate + hsqldb + jetty
+
+by Victor Guerrero
+vguerrero.net@gmail.com
+
+Funcionamiento:
+
+mvn clean install
+mvn jetty:run
+
+navegar a
+http://localhost:8080/home/index
+

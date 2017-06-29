@@ -1,0 +1,12 @@
+org/vmgs/controller/HomeController.class
+org/vmgs/concreteDao/ProductDao.class
+org/vmgs/entities/Product.class
+org/vmgs/entities/Person.class
+org/vmgs/services/PersonServiceGen.class
+org/vmgs/genericDao/IGenericDao.class
+org/vmgs/concreteDao/IPersonDao.class
+org/vmgs/services/PersonService.class
+org/vmgs/genericDao/GenericDaoImpl.class
+org/vmgs/services/IPersonServiceGen.class
+org/vmgs/concreteDao/PersonDao.class
+org/vmgs/concreteDao/IProductDao.class

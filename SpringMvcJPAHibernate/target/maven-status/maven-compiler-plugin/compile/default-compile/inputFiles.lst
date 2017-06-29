@@ -1,0 +1,12 @@
+/home/victor/Documentos/SpringMvcJPAHibernate/src/main/java/org/vmgs/entities/Product.java
+/home/victor/Documentos/SpringMvcJPAHibernate/src/main/java/org/vmgs/concreteDao/PersonDao.java
+/home/victor/Documentos/SpringMvcJPAHibernate/src/main/java/org/vmgs/genericDao/IGenericDao.java
+/home/victor/Documentos/SpringMvcJPAHibernate/src/main/java/org/vmgs/services/IPersonServiceGen.java
+/home/victor/Documentos/SpringMvcJPAHibernate/src/main/java/org/vmgs/genericDao/GenericDaoImpl.java
+/home/victor/Documentos/SpringMvcJPAHibernate/src/main/java/org/vmgs/controller/HomeController.java
+/home/victor/Documentos/SpringMvcJPAHibernate/src/main/java/org/vmgs/concreteDao/ProductDao.java
+/home/victor/Documentos/SpringMvcJPAHibernate/src/main/java/org/vmgs/concreteDao/IPersonDao.java
+/home/victor/Documentos/SpringMvcJPAHibernate/src/main/java/org/vmgs/services/PersonServiceGen.java
+/home/victor/Documentos/SpringMvcJPAHibernate/src/main/java/org/vmgs/concreteDao/IProductDao.java
+/home/victor/Documentos/SpringMvcJPAHibernate/src/main/java/org/vmgs/entities/Person.java
+/home/victor/Documentos/SpringMvcJPAHibernate/src/main/java/org/vmgs/services/PersonService.java
